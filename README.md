@@ -28,8 +28,11 @@ Introdução Python I
 [Solução](https://colab.research.google.com/github.com/Rogerio-mack/Introducao_Python_I/Python___percorrendo_listas_e_dict.ipynb) 
 
 <br/>
+
 <br/>
+
 Recursos
+
 <br/>
 
 > [Python_Cheat_Sheet pdf](https://github.com/Rogerio-mack/Analise-de-Dados/blob/main/Python%20Cheat%20Sheet.pdf)
