@@ -1,6 +1,8 @@
 # Introducao_Python_I
 Introdução Python I
 
+<br/>
+
 [Hello e Comandos Sequenciais](https://colab.research.google.com/github.com/Rogerio-mack/Introducao_Python_I/Python__Hello.ipynb) | 
 [Solução](https://colab.research.google.com/github.com/Rogerio-mack/Introducao_Python_I/Python__Hello_solucao.ipynb)  
 
