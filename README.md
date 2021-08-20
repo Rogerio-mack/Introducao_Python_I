@@ -31,9 +31,7 @@ Introdução Python I
 
 <br/>
 
-Recursos
 
-<br/>
 
 > [Python_Cheat_Sheet pdf](https://github.com/Rogerio-mack/Analise-de-Dados/blob/main/Python%20Cheat%20Sheet.pdf)
 
