@@ -3,8 +3,8 @@ Introdução Python I
 
 <br/>
 
-[Hello e Comandos Sequenciais](https://colab.research.google.com/github.com/Rogerio-mack/Introducao_Python_I/Python__Hello.ipynb) | 
-[Solução](https://colab.research.google.com/github.com/Rogerio-mack/Introducao_Python_I/Python__Hello_solucao.ipynb)  
+[Hello e Comandos Sequenciais](https://colab.research.google.com/github/Rogerio-mack/Introducao_Python_I/blob/main/Python__Hello.ipynb) | 
+[Solução](https://colab.research.google.com/github/Rogerio-mack/Introducao_Python_I/blob/main/Python__Hello_solucao.ipynb)  
 
 [Operadores e Funções Matemáticas](https://colab.research.google.com/github.com/Rogerio-mack/Introducao_Python_I/Python__Ope_Mate.ipynb) | 
 [Solução](https://colab.research.google.com/github.com/Rogerio-mack/Introducao_Python_I/Python__Ope_Mate_solucao.ipynb) 
